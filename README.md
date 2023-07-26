@@ -1,1 +1,1 @@
-# moisturizer-recommender
+This is a moisturizer recommender web application. You can choose up to 3 different skin concerns, enter you budget, add any preferred brands, and choose the number of moisturizers you want the application to return. From these moisturizers, you are able to choose your favorite moisturizer and purchase it. 
